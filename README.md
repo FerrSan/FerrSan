@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=FerrSan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">Play games with me</p>
+<p align="left">Play Games with me</p>
 
 ###
 
