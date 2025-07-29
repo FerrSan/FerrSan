@@ -1,7 +1,6 @@
 ## Hello World I'm FerrSan 👋
 
-![FerrSan X IvLizz](img/ivliz.jpeg)
-
+![FerrSan X IveLiz](img/ivliz.jpeg)
 <!--
 **FerrSan/FerrSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
