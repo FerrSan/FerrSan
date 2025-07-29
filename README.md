@@ -1,5 +1,4 @@
 ## Hello Guys! I'm FerrSan 👋
-
 ![FerrSan X IveLiz](img/github-header-image.png)
 
 
@@ -28,7 +27,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/FerrSan/FerrSan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FerrSan/FerrSan/output/snake.svg" alt="Snake animation" />
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
