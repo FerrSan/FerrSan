@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on @FerrSan
 
 - 🌱 I’m currently learning [laravel 12]{https://laravel.com} Framework
+- 🌱 I’m currently learning [Vue Js]{https://vuejs.org} Framework
 
 -☁️☁️☁️
 
