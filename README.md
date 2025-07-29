@@ -27,7 +27,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/FerrSan/FerrSan/output/snake.svg" alt="Snake animation" />
-
-###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
