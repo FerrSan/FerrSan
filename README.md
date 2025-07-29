@@ -67,15 +67,13 @@ Here are some ideas to get you started:
 
 ###
 
+<img src="https://raw.githubusercontent.com/FerrSan/FerrSan/output/snake.svg" alt="Snake animation" />
+
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FerrSan/FerrSan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FerrSan/FerrSan/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FerrSan/FerrSan/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/FerrSan/FerrSan/output/snake.svg" alt="Snake animation" />
-
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
