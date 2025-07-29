@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+-my gf >/< ![iveLizz](img/ivliz.jpeg)
 - 🔭 I’m currently working on @FerrSan
 
 - 🌱 I’m currently learning [laravel 12]{https://laravel.com} Framework
